@@ -1,0 +1,12 @@
+# Sensitive or bulky capture files: review before committing
+*.pcap
+*.pcapng
+*.key
+*.pem
+*.ppk
+.env
+.DS_Store
+Thumbs.db
+
+# Optional local exports
+*.cap
